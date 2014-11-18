@@ -1,5 +1,7 @@
 --local hello = display.newText("Hello,Corona！",160,20,native.systemFont, 44)
 
+--local tree = display.newImage("green.png", 160, 300)
+
 --[[
 local rect = display.newRect(100, 100,  100, 100 )
 rect:setFillColor( 1, 0.5, 0.1, 1 )
